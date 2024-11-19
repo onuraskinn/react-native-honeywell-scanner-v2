@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml:2:11-57
+		INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#com.honeywell.decode.permission.DECODE
+ADDED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml:3:5-78
+	android:name
+		ADDED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml:3:22-75
+uses-sdk
+INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/onuraskin/Desktop/simply/simply-driver/node_modules/react-native-honeywell-scanner-v2/android/src/main/AndroidManifest.xml
